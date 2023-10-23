@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "startbootstrap-clean-blog": "^6.0.9"
+  }
+}
